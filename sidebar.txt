@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mvu:home|Door43 (mvu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mvu|d43-mvu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mvu/archive/master.zip|d43-mvu.zip]]
+
+**Recent Changes**
+{{changes>ns = mvu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mvu|Ethnologue data]]
+
